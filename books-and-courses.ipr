@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/books-and-courses.iml" filepath="$PROJECT_DIR$/books-and-courses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pydata-book/pydata-book.iml" filepath="$PROJECT_DIR$/pydata-book/pydata-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sql-cookbook/sql-cookbook.iml" filepath="$PROJECT_DIR$/sql-cookbook/sql-cookbook.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+  </component>
+</project>
