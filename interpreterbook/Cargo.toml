@@ -1,0 +1,8 @@
+[package]
+name = "interpreterbook"
+version = "0.1.0"
+authors = ["Alexander Matsievsky <alexander.matsievsky@gmx.com>"]
+edition = "2018"
+
+[dependencies]
+regex = "1.1.6"
