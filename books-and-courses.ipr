@@ -127,6 +127,9 @@
       </codeStyleSettings>
     </code_scheme>
   </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="alexander-matsievsky" />
+  </component>
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/books-and-courses.iml" filepath="$PROJECT_DIR$/books-and-courses.iml" />
