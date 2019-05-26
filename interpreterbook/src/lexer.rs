@@ -13,7 +13,7 @@ impl Lexer {
     pub fn new(input: String) -> Lexer {
         let mut lexer = Lexer {
             ch: '\x00',
-            input: input.chars().into_iter().collect(),
+            input: input.chars().collect(),
             position: 0,
             read_position: 0,
         };

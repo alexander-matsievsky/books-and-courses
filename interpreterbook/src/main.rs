@@ -1,12 +1,16 @@
 use std::io;
 use std::io::Write;
 
+mod ast;
 mod lexer;
+mod parser;
 mod token;
 
 fn main() {
-    //    let _lexer = lexer::Lexer::new("let x = 5;".to_string());
-    repl();
+    let lexer = lexer::Lexer::new("let x = 5;".to_string());
+    let mut parser = parser::Parser::new(lexer);
+    dbg!(parser.parse());
+    // repl();
 }
 
 fn repl() {

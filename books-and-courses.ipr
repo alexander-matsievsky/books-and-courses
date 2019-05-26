@@ -155,6 +155,5 @@
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/rustwasm/wasm-game-of-life/www" vcs="Git" />
   </component>
 </project>
