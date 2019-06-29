@@ -6,10 +6,135 @@
     </profile>
     <version value="1.0" />
   </component>
+  <component name="ProjectCodeStyleConfiguration">
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
+    <code_scheme name="Project" version="173">
+      <option name="FORMATTER_TAGS_ENABLED" value="true" />
+      <DB2CodeStyleSettings version="2">
+        <option name="ALIAS_CASE" value="1" />
+        <option name="KEYWORD_CASE" value="1" />
+        <option name="TYPE_CASE" value="3" />
+        <option name="IDENTIFIER_CASE" value="1" />
+        <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+        <option name="QUOTE_IDENTIFIER" value="1" />
+      </DB2CodeStyleSettings>
+      <DerbyCodeStyleSettings version="2">
+        <option name="ALIAS_CASE" value="1" />
+        <option name="KEYWORD_CASE" value="1" />
+        <option name="TYPE_CASE" value="3" />
+        <option name="IDENTIFIER_CASE" value="1" />
+        <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+        <option name="QUOTE_IDENTIFIER" value="1" />
+      </DerbyCodeStyleSettings>
+      <H2CodeStyleSettings version="2">
+        <option name="ALIAS_CASE" value="1" />
+        <option name="KEYWORD_CASE" value="1" />
+        <option name="TYPE_CASE" value="3" />
+        <option name="IDENTIFIER_CASE" value="1" />
+        <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+        <option name="QUOTE_IDENTIFIER" value="1" />
+      </H2CodeStyleSettings>
+      <HSQLCodeStyleSettings version="2">
+        <option name="ALIAS_CASE" value="1" />
+        <option name="KEYWORD_CASE" value="1" />
+        <option name="TYPE_CASE" value="3" />
+        <option name="IDENTIFIER_CASE" value="1" />
+        <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+        <option name="QUOTE_IDENTIFIER" value="1" />
+      </HSQLCodeStyleSettings>
+      <JSCodeStyleSettings version="0">
+        <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+        <option name="FORCE_SEMICOLON_STYLE" value="true" />
+        <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
+        <option name="USE_DOUBLE_QUOTES" value="false" />
+        <option name="FORCE_QUOTE_STYlE" value="true" />
+        <option name="SPACES_WITHIN_IMPORTS" value="true" />
+      </JSCodeStyleSettings>
+      <MSSQLCodeStyleSettings version="2">
+        <option name="ALIAS_CASE" value="1" />
+        <option name="KEYWORD_CASE" value="1" />
+        <option name="TYPE_CASE" value="3" />
+        <option name="IDENTIFIER_CASE" value="1" />
+        <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+        <option name="QUOTE_IDENTIFIER" value="1" />
+      </MSSQLCodeStyleSettings>
+      <MySQLCodeStyleSettings version="2">
+        <option name="ALIAS_CASE" value="1" />
+        <option name="KEYWORD_CASE" value="1" />
+        <option name="TYPE_CASE" value="3" />
+        <option name="IDENTIFIER_CASE" value="1" />
+        <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+        <option name="QUOTE_IDENTIFIER" value="1" />
+      </MySQLCodeStyleSettings>
+      <OracleCodeStyleSettings version="2">
+        <option name="ALIAS_CASE" value="1" />
+        <option name="KEYWORD_CASE" value="1" />
+        <option name="TYPE_CASE" value="3" />
+        <option name="IDENTIFIER_CASE" value="1" />
+        <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+        <option name="QUOTE_IDENTIFIER" value="1" />
+      </OracleCodeStyleSettings>
+      <PostgresCodeStyleSettings version="2">
+        <option name="ALIAS_CASE" value="1" />
+        <option name="KEYWORD_CASE" value="1" />
+        <option name="TYPE_CASE" value="3" />
+        <option name="IDENTIFIER_CASE" value="1" />
+        <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+        <option name="QUOTE_IDENTIFIER" value="1" />
+      </PostgresCodeStyleSettings>
+      <Python>
+        <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
+        <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
+      </Python>
+      <SQLiteCodeStyleSettings version="2">
+        <option name="ALIAS_CASE" value="1" />
+        <option name="KEYWORD_CASE" value="1" />
+        <option name="TYPE_CASE" value="3" />
+        <option name="IDENTIFIER_CASE" value="1" />
+        <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+        <option name="QUOTE_IDENTIFIER" value="1" />
+      </SQLiteCodeStyleSettings>
+      <ScalaCodeStyleSettings>
+        <option name="MULTILINE_STRING_SUPPORT" value="-1" />
+      </ScalaCodeStyleSettings>
+      <SqlCodeStyleSettings version="2">
+        <option name="ALIAS_CASE" value="1" />
+        <option name="KEYWORD_CASE" value="1" />
+        <option name="TYPE_CASE" value="3" />
+        <option name="IDENTIFIER_CASE" value="1" />
+        <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+        <option name="QUOTE_IDENTIFIER" value="1" />
+      </SqlCodeStyleSettings>
+      <SybaseCodeStyleSettings version="2">
+        <option name="ALIAS_CASE" value="1" />
+        <option name="KEYWORD_CASE" value="1" />
+        <option name="TYPE_CASE" value="3" />
+        <option name="IDENTIFIER_CASE" value="1" />
+        <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+        <option name="QUOTE_IDENTIFIER" value="1" />
+      </SybaseCodeStyleSettings>
+      <codeStyleSettings language="JavaScript">
+        <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+        <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+        <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
+        <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+        <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+        <indentOptions>
+          <option name="INDENT_SIZE" value="2" />
+          <option name="CONTINUATION_INDENT_SIZE" value="2" />
+          <option name="TAB_SIZE" value="2" />
+        </indentOptions>
+      </codeStyleSettings>
+      <codeStyleSettings language="Python">
+        <option name="RIGHT_MARGIN" value="79" />
+      </codeStyleSettings>
+    </code_scheme>
+  </component>
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/books-and-courses.iml" filepath="$PROJECT_DIR$/books-and-courses.iml" />
       <module fileurl="file://$PROJECT_DIR$/pydata-book/pydata-book.iml" filepath="$PROJECT_DIR$/pydata-book/pydata-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scikit-learn-cookbook/scikit-learn-cookbook.iml" filepath="$PROJECT_DIR$/scikit-learn-cookbook/scikit-learn-cookbook.iml" />
       <module fileurl="file://$PROJECT_DIR$/sql-cookbook/sql-cookbook.iml" filepath="$PROJECT_DIR$/sql-cookbook/sql-cookbook.iml" />
     </modules>
   </component>
