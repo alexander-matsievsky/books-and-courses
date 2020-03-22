@@ -6,15 +6,38 @@
     </profile>
     <version value="1.0" />
   </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="alexander-matsievsky">
+      <words>
+        <w>graphframes</w>
+        <w>pathfinding</w>
+        <w>pyspark</w>
+      </words>
+    </dictionary>
+  </component>
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/books-and-courses.iml" filepath="$PROJECT_DIR$/books-and-courses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/neo4j-graph-analytics/neo4j-graph-analytics.iml" filepath="$PROJECT_DIR$/neo4j-graph-analytics/neo4j-graph-analytics.iml" />
       <module fileurl="file://$PROJECT_DIR$/pydata-book/pydata-book.iml" filepath="$PROJECT_DIR$/pydata-book/pydata-book.iml" />
       <module fileurl="file://$PROJECT_DIR$/sql-cookbook/sql-cookbook.iml" filepath="$PROJECT_DIR$/sql-cookbook/sql-cookbook.iml" />
     </modules>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false" project-jdk-name="13" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="PySciProjectComponent">
+    <option name="PY_SCI_VIEW" value="true" />
+    <option name="PY_SCI_VIEW_SUGGESTED" value="true" />
+  </component>
+  <component name="ShellcheckProjectComponent">
+    <option name="shellcheckExecutable" value="/usr/bin/shellcheck" />
+    <option name="treatAllIssuesAsWarnings" value="true" />
+    <option name="highlightWholeLine" value="true" />
+    <option name="pluginEnabled" value="true" />
+  </component>
+  <component name="SqlDialectMappings">
+    <file url="notebook:///mnt/6484FA6784FA3B5E/alexander-matsievsky/IdeaProjects/alexander-matsievsky/books-and-courses/neo4j-graph-analytics/Graph Algorithms: Practical Examples in Apache Spark and Neo4j.ipynb" dialect="SparkSQL" />
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
