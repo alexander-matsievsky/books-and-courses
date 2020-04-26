@@ -8,12 +8,13 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/PythonDataScienceHandbook/PythonDataScienceHandbook.iml" filepath="$PROJECT_DIR$/PythonDataScienceHandbook/PythonDataScienceHandbook.iml" />
       <module fileurl="file://$PROJECT_DIR$/books-and-courses.iml" filepath="$PROJECT_DIR$/books-and-courses.iml" />
       <module fileurl="file://$PROJECT_DIR$/pydata-book/pydata-book.iml" filepath="$PROJECT_DIR$/pydata-book/pydata-book.iml" />
       <module fileurl="file://$PROJECT_DIR$/sql-cookbook/sql-cookbook.iml" filepath="$PROJECT_DIR$/sql-cookbook/sql-cookbook.iml" />
     </modules>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="false" project-jdk-name="13" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="VcsDirectoryMappings">
