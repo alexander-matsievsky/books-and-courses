@@ -17,6 +17,12 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="false" project-jdk-name="13" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
+  <component name="ShellcheckProjectComponent">
+    <option name="shellcheckExecutable" value="/usr/bin/shellcheck" />
+    <option name="treatAllIssuesAsWarnings" value="true" />
+    <option name="highlightWholeLine" value="true" />
+    <option name="pluginEnabled" value="true" />
+  </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
   </component>
