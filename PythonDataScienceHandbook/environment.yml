@@ -16,11 +16,19 @@ dependencies:
   - cffi=1.14.0=py38hd463f26_0
   - chardet=3.0.4=py38h32f6830_1006
   - click=7.1.1=pyh8c360ce_0
+  - cloudpickle=1.4.1=py_0
   - cryptography=2.8=py38h766eaa4_2
+  - cycler=0.10.0=py_2
+  - cytoolz=0.10.1=py38h516909a_0
+  - dask-core=2.17.0=py_0
   - decorator=4.4.2=py_0
   - defusedxml=0.6.0=py_0
   - entrypoints=0.3=py38h32f6830_1001
+  - freetype=2.10.2=he06d7ca_0
+  - icu=58.2=hf484d3e_1000
   - idna=2.9=py_1
+  - imagecodecs-lite=2019.12.3=py38h1e0a361_0
+  - imageio=2.8.0=py_0
   - importlib-metadata=1.6.0=py38h32f6830_0
   - importlib_metadata=1.6.0=0
   - ipykernel=5.2.1=py38h23f93f0_0
@@ -29,12 +37,14 @@ dependencies:
   - jedi=0.17.0=py38h32f6830_0
   - jinja2=2.11.2=pyh9f0ad1d_0
   - joblib=0.14.1=py_0
+  - jpeg=9c=h14c3975_1001
   - json5=0.9.0=py_0
   - jsonschema=3.2.0=py38h32f6830_1
   - jupyter_client=6.1.3=py_0
   - jupyter_core=4.6.3=py38h32f6830_1
   - jupyterlab=2.1.1=py_0
   - jupyterlab_server=1.1.1=py_0
+  - kiwisolver=1.2.0=py38hbf85e49_0
   - ld_impl_linux-64=2.33.1=h53a641e_7
   - libblas=3.8.0=14_openblas
   - libcblas=3.8.0=14_openblas
@@ -44,17 +54,24 @@ dependencies:
   - libgfortran-ng=7.3.0=hdf63c60_5
   - liblapack=3.8.0=14_openblas
   - libopenblas=0.3.7=h5ec1e0e_6
+  - libpng=1.6.37=hed695b0_1
   - libsodium=1.0.17=h516909a_0
   - libstdcxx-ng=9.1.0=hdf63c60_0
+  - libtiff=4.1.0=hc7e4089_6
+  - libwebp-base=1.1.0=h516909a_3
+  - lz4-c=1.9.2=he1b5a44_1
   - markupsafe=1.1.1=py38h1e0a361_1
+  - matplotlib-base=3.1.3=py38hef1b27d_0
   - mistune=0.8.4=py38h1e0a361_1001
   - mypy_extensions=0.4.3=py38h32f6830_1
   - nb_black=1.0.7=py_0
   - nbconvert=5.6.1=py38h32f6830_1
   - nbformat=5.0.6=py_0
   - ncurses=6.2=he6710b0_0
+  - networkx=2.4=py_1
   - notebook=6.0.3=py38_0
   - numpy=1.18.1=py38h8854b6b_1
+  - olefile=0.46=py_0
   - openssl=1.1.1g=h516909a_0
   - pandas=1.0.3=py38hcb8c335_1
   - pandoc=2.9.2.1=0
@@ -63,6 +80,7 @@ dependencies:
   - pathspec=0.8.0=pyh9f0ad1d_0
   - pexpect=4.8.0=py38h32f6830_1
   - pickleshare=0.7.5=py38h32f6830_1001
+  - pillow=7.1.2=py38hb39fc2d_0
   - pip=20.0.2=py38_1
   - prometheus_client=0.7.1=py_0
   - prompt-toolkit=3.0.5=py_0
@@ -70,16 +88,19 @@ dependencies:
   - pycparser=2.20=py_0
   - pygments=2.6.1=py_0
   - pyopenssl=19.1.0=py_1
+  - pyparsing=2.4.7=pyh9f0ad1d_0
   - pyrsistent=0.16.0=py38h1e0a361_0
   - pysocks=1.7.1=py38h32f6830_1
   - python=3.8.2=hcf32534_0
   - python-dateutil=2.8.1=py_0
   - python_abi=3.8=1_cp38
   - pytz=2019.3=py_0
+  - pywavelets=1.1.1=py38h8790de6_1
   - pyzmq=19.0.0=py38ha71036d_1
   - readline=8.0=h7b6447c_0
   - regex=2020.4.4=py38h1e0a361_0
   - requests=2.23.0=pyh8c360ce_2
+  - scikit-image=0.17.2=py38hcb8c335_0
   - scikit-learn=0.22.2.post1=py38hcdab131_0
   - scipy=1.4.1=py38h18bccfc_3
   - send2trash=1.5.0=py_0
@@ -88,6 +109,7 @@ dependencies:
   - sqlite=3.31.1=h62c20be_1
   - terminado=0.8.3=py38h32f6830_1
   - testpath=0.4.4=py_0
+  - tifffile=2020.5.11=py_0
   - tk=8.6.8=hbc83047_0
   - toml=0.10.0=py_0
   - toolz=0.10.0=py_0
@@ -103,5 +125,6 @@ dependencies:
   - zeromq=4.3.2=he1b5a44_2
   - zipp=3.1.0=py_0
   - zlib=1.2.11=h7b6447c_3
+  - zstd=1.4.4=h6597ccf_3
 prefix: /home/alexander-matsievsky/.miniconda3/envs/PythonDataScienceHandbook
 
