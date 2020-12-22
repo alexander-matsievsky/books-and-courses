@@ -1,0 +1,21 @@
+services:
+  all-spark-notebook:
+    build:
+      context: .
+    network_mode: host
+    ports:
+      - '0.0.0.0:8888:8888'
+    volumes:
+      - '.:/home/jovyan/work'
+  postgres:
+    environment:
+      POSTGRES_DB: sql-cookbook
+      POSTGRES_PASSWORD: sql-cookbook
+      POSTGRES_USER: sql-cookbook
+    image: 'postgres:13.1-alpine'
+    network_mode: host
+    ports:
+      - '0.0.0.0:5432:5432'
+    volumes:
+      - '.:/tmp'
+version: '3.3'
