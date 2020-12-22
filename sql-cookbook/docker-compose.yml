@@ -4,9 +4,7 @@ services:
       context: .
     network_mode: host
     ports:
-      - '0.0.0.0:4040:4040'
       - '0.0.0.0:8888:8888'
-    user: root
     volumes:
       - '.:/home/jovyan/work'
   postgres:
