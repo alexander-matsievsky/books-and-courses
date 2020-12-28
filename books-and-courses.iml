@@ -4,6 +4,8 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/r4ds/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/r4ds/Part I. Explore/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/r4ds/Part II. Wrangle/.ipynb_checkpoints" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
