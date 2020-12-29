@@ -10,10 +10,13 @@ RUN conda install -c r                    \
 RUN R -e '                                \
   install.packages(                       \
     c(                                    \
+      "babynames",                        \
+      "fueleconomy",                      \
       "gapminder",                        \
       "ggbeeswarm",                       \
       "ggstance",                         \
-      "lvplot"                            \
+      "lvplot",                           \
+      "nasaweather"                       \
     ),                                    \
     lib = "/opt/conda/lib/R/library",     \
     repos = "https://cloud.r-project.org" \
