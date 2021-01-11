@@ -1,0 +1,10 @@
+services:
+  all-spark-notebook:
+    build:
+      context: .
+    network_mode: host
+    ports:
+      - '0.0.0.0:8888:8888'
+    volumes:
+      - '.:/home/jovyan/work'
+version: '3.3'
